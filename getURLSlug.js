@@ -1,1 +1,3 @@
-function getURLSlug(words)
+function getURLSlug(words){
+    
+}
